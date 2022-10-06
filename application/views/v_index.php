@@ -2,15 +2,15 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>MalasNgoding | Membuat Template sederhana codeigniter</title>	
+	<title>Berita Loker | Loker Update</title>	
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/style.css">
 </head>
 <body>
 	<div id="wrapper">
 		<header>
 			<hgroup>
-				<h1>MalasNgoding.com</h1>
-				<h3>Membuat template sederhana codeigniter</h3>
+				<h1>Berita Loker</h1>
+				<h3>Loker Update</h3>
 			</hgroup>
 			<nav>
 				<ul>
